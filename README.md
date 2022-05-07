@@ -10,3 +10,4 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=Svelte)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=for-the-badge&logo=Spring)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java)
