@@ -6,8 +6,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
-<h4> Front End </h4>
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=for-the-badge&logo=vue.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=for-the-badge&logo=Svelte)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
